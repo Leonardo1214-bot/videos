@@ -1,10 +1,6 @@
 import PIL
 from PIL import Image, ImageFilter
-from tkinter import filedialog, Tk
 
-# Ocultar la ventana principal de Tkinter
-root = Tk()
-root.withdraw()
 
 IMG_PATH = "image.jpg"
 
